@@ -21,5 +21,9 @@ Then initialize it:
 ## Screenshots
 
 ![alt text](https://www.giuliogabrieli.it/playground/screenshots/pagelenscrollbar_01.png "Screenshot 1")
+
+
 ![alt text](https://www.giuliogabrieli.it/playground/screenshots/pagelenscrollbar_02.png "Screenshot 2")
+
+
 ![alt text](https://www.giuliogabrieli.it/playground/screenshots/pagelenscrollbar_03.png "Screenshot 3")
