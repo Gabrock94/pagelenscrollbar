@@ -7,5 +7,19 @@ DEMO: https://goo.gl/kcSdco
 ## Usage
 First load the library
 ```HTML
-<script src="js/pagelenscrollbar.js" type="text/javascript"></script>
+<script src="path-to-js/pagelenscrollbar.js" type="text/javascript"></script>
 ```
+Then initialize it:
+
+```Javascript
+  var bar_background = 'rgb(200,200,200)'; //Background color
+  var bar_color = 'rgb(255,0,0)'; //Color of the Bar
+  var bar_height = 5; //Height in pixel
+  init_pagelenbar(bar_color,bar_background,5); //Create the Bar
+```
+
+## Screenshots
+
+!(https://www.giuliogabrieli.it/playground/screenshots/pagelenscrollbar_01.png)
+!(https://www.giuliogabrieli.it/playground/screenshots/pagelenscrollbar_02.png)
+!(https://www.giuliogabrieli.it/playground/screenshots/pagelenscrollbar_03.png)
