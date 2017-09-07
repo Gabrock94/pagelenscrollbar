@@ -20,6 +20,8 @@ Then initialize it:
 
 ## Screenshots
 
+![alt text](https://www.giuliogabrieli.it/playground/screenshots/PageLenScrollBar.gif "Screenshot 1")
+
 ![alt text](https://www.giuliogabrieli.it/playground/screenshots/pagelenscrollbar_01.png "Screenshot 1")
 
 
